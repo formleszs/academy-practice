@@ -6,8 +6,6 @@ def greeting
     surname = gets.chomp
     age = Integer(gets.chomp)
 
-    puts "#{name} #{surname} #{age}"
-
     if age <18
         puts "Привет #{name} #{surname}. Тебе меньше 18 лет, но начать учиться программированию никогда не рано"
     else
