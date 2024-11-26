@@ -1,2 +1,1 @@
-
-    age = gets.chomp
+gets.chomp
