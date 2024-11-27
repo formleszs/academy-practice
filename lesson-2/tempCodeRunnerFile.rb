@@ -1,1 +1,0 @@
-/Users/mac/academy-practice/lesson-2
